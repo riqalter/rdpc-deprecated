@@ -1,34 +1,16 @@
-## Selamat datang di Github Pages Gw 
+## rdpc c0l4b
 
-You can use the  to maintain and preview the content for your website in Markdown files.
+command untuk rdp gc0l4b
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-
-
-[Link](url) and ![Image](src)
+ https://github.com/thq642/rdpc  (Source Code)    
+ 
+ ! wget https://raw.githubusercontent.com/thq642/rdpc/main/rdp.sh &> /dev/null
+ ! chmod +x rdp.sh 
+ ! ./rdp.sh
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
 [edit pages](https://github.com/thq642/rdpc/edit/gh-pages/index.md)
