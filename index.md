@@ -6,6 +6,12 @@ Cara ini harus menggunakan browser chrome :)
 
 [Chrome downloadnya disini](https://www.google.com/intl/id_id/chrome/)
 
+> buka [colab](https://colab.research.google.com)
+
+> buat file baru 
+
+> masukan perintah  🔻
+
 
 ```markdown
  https://github.com/thq642/rdpc  (Source Code)    
