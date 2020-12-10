@@ -23,5 +23,12 @@ Cara ini harus menggunakan browser chrome :)
 
 [tutorial lebih lanjut ada di sini](https://experimentwithme.cf/notes/doku.php?id=cara_membuat_mesin_render_dengan_colab)
 
+jika ingin menggunakan gpu :
+
+> tab atas 
+> Runtime 
+> ubah jenis runtime dan pilin gpu
+
+agar tidak kena ban sementara jangan sering gunakan runtime dengan gpu 
 
 [edit pages](https://github.com/thq642/rdpc/edit/gh-pages/index.md)
