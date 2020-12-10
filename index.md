@@ -4,6 +4,8 @@ command untuk rdp gc0l4b
 
 Cara ini harus menggunakan browser chrome :)
 
+https://www.google.com/intl/id_id/chrome/
+
 
 ```markdown
  https://github.com/thq642/rdpc  (Source Code)    
