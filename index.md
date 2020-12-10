@@ -19,7 +19,7 @@ Cara ini harus menggunakan browser chrome :)
  ! chmod +x rdp.sh 
  ! ./rdp.sh
 ```
-### setiap perintah dan mengeluarkan output harap dibaca dengan baik
+### setiap perintah dan output harap dibaca dengan baik
 
 [tutorial lebih lanjut ada di sini](https://experimentwithme.cf/notes/doku.php?id=cara_membuat_mesin_render_dengan_colab)
 
