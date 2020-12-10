@@ -4,7 +4,7 @@ command untuk rdp gc0l4b
 
 Cara ini harus menggunakan browser chrome :)
 
-https://www.google.com/intl/id_id/chrome/
+[Chrome downloadnya disini](https://www.google.com/intl/id_id/chrome/)
 
 
 ```markdown
