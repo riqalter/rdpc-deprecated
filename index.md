@@ -13,8 +13,6 @@ Cara ini harus menggunakan browser chrome :)
 > masukan perintah  🔻
 
 ```markdown
- https://github.com/thq642/rdpc  (Source Code)    
- 
  ! wget https://raw.githubusercontent.com/thq642/rdpc/main/rdp.sh &> /dev/null
  ! chmod +x rdp.sh 
  ! ./rdp.sh
@@ -23,11 +21,11 @@ Cara ini harus menggunakan browser chrome :)
 
 [tutorial lebih lanjut ada di sini](https://experimentwithme.cf/notes/doku.php?id=cara_membuat_mesin_render_dengan_colab)
 
-jika ingin menggunakan gpu :
+jika ingin menggunakan gpu : (lakukan sebelum mesin di start)
 
-> tab atas 
-> Runtime 
-> ubah jenis runtime dan pilin gpu
+-> tab atas 
+-> Runtime 
+-> ubah jenis runtime dan pilin gpu
 
 agar tidak kena ban sementara jangan sering gunakan runtime dengan gpu 
 
