@@ -13,9 +13,9 @@ Cara ini harus menggunakan browser chrome :)
 > masukan perintah  🔻
 
 ```markdown
- ! wget https://raw.githubusercontent.com/thq642/rdpc/main/rdp.sh &> /dev/null
- ! chmod +x rdp.sh 
- ! ./rdp.sh
+ !wget https://raw.githubusercontent.com/thq642/rdpc/main/rdp.sh &> /dev/null
+ !chmod +x rdp.sh 
+ !./rdp.sh
 ```
 ### setiap perintah dan output harap dibaca dengan baik
 
@@ -24,9 +24,11 @@ Cara ini harus menggunakan browser chrome :)
 jika ingin menggunakan gpu : (lakukan sebelum mesin di start)
 
 -> tab atas 
--> Runtime 
+<br>
+-> Runtime
+<br>
 -> ubah jenis runtime dan pilin gpu
-
+<br>
 agar tidak kena ban sementara jangan sering gunakan runtime dengan gpu 
 
 [edit pages](https://github.com/thq642/rdpc/edit/gh-pages/index.md)
