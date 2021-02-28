@@ -23,11 +23,11 @@ Cara ini harus menggunakan browser chrome :)
 
 jika ingin menggunakan gpu : (lakukan sebelum mesin di start)
 
--> tab atas 
+1. tab atas 
 <br>
--> Runtime
+2. Runtime
 <br>
--> ubah jenis runtime dan pilin gpu
+3. ubah jenis runtime dan pilin gpu
 <br>
 agar tidak kena ban sementara jangan sering gunakan runtime dengan gpu 
 
